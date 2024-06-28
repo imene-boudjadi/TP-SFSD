@@ -1,4 +1,4 @@
-**TP-SFSD**
+# TP-SFSD
 
 This project aims to compare the access counts (reads and writes) and the load factor between TOF and LOF models, as well as among four combinations of LOF. 
 The project involves generating CSV-formatted text files detailing access counts and load factors, and creating corresponding graphs.
